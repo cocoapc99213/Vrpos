@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "vp.client.vrpos.mixin.mixins",
+  "refmap": "mixins.vrpos.refmap.json",
+  "mixins": [
+    "MixinMinecraft" ,
+    "MixinNetworkManager"
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "vrpos",
+    "name": "Vrpos",
+    "description": "",
+    "version": "0.1.2",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      ""
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
